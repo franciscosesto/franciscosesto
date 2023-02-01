@@ -18,6 +18,8 @@
 
 - 🌱 I’m currently learning **Data Science**
 
+- ➗ My favourite formula $e^{i \theta}=cos(\theta) + i \cdot sen(\theta)$ 
+
 - 🌐 Website [Francisco Sesto's Linkedin](https://www.linkedin.com/in/francisco-sesto/)
 
 
