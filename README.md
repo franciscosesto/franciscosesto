@@ -33,7 +33,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>        
         <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" **alt="Latex" width="40" height="40"/>
-
       </div>
 </div>
 
@@ -41,7 +40,7 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franciscosesto&theme=yellowdark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=franciscosesto&theme=dark)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscosesto&show_icons=true&theme=radical)
 
