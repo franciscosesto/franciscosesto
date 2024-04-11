@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 Studying for a degree in Business Economics at Universidad Austral
+- 📝 Studying for a master in Economics at Universidad Torcuato Di Tella
 
 - 💬 Ask me about **Python, Power Bi, SQL, Latex**
 
