@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/8qUjDf9PZlHZ6/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Francisco Sesto</h1>
-    <h3 align="center">A driven student with a focus on mathematics and data analysis, I am eager to complete my Business Economics degree from Universidad Austral and embark on a future in Deep Learning and AI applied to economics. </h3>
+    <h3 align="center">A driven student with a focus on mathematics and data analysis, I am eager to complete my Master in economics from Universidad Torcuato DiTella and embark on a future in Deep Learning and AI applied to economics. </h3>
 </div>
 
 
